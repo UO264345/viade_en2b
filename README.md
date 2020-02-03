@@ -8,7 +8,7 @@ This repository contains a skeleton of the VIADE project.
 
 Andrés García Celis
 
-This change is in the 'new_feature' branch
+This change is in the 'master' branch
 
 This project is an assignment for the [Software Architecture course](https://arquisoft.github.io/) following [these requirements](https://labra.solid.community/public/SoftwareArchitecture/AssignmentDescription/).
 
